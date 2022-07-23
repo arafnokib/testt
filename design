@@ -1,0 +1,31 @@
+<!--
+
+      <a-box position="-5 5 -20" scale="5 1 1"></a-box>
+
+      <a-box position="-2.5 7 -20" scale="1 5 1"></a-box>
+      <a-box position="0 5 -20" scale="5 1 1"></a-box>
+      <a-box position="2.5 7 -20" scale="1 5 1"></a-box>
+     
+      <a-box position="5 5 -20" scale="5 1 1"></a-box>
+
+
+
+      <a-box position="-5 0 -20" scale="5 1 1"></a-box>
+
+      <a-box position="-2.5 2 -20" scale="1 5 1"></a-box>
+      <a-box position="0 0 -20" scale="5 1 1"></a-box>
+      <a-box position="2.5 2 -20" scale="1 5 1"></a-box>
+     
+      <a-box position="5 0 -20" scale="5 1 1"></a-box>
+
+      
+
+      <a-box position="-5 0 -20" scale="5 1 1"></a-box>
+
+      <a-box position="-2.5 -3 -20" scale="1 5 1"></a-box>
+      <a-box position="0 0 -20" scale="5 1 1"></a-box>
+      <a-box position="2.5 -3 -20" scale="1 5 1"></a-box>
+     
+      <a-box position="5 0 -20" scale="5 1 1"></a-box>
+
+     -->
